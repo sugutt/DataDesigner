@@ -75,6 +75,9 @@ venv.bak/
 *.whl
 *.tar.gz
 *.zip
+node_modules/
+.next/
+tsconfig.tsbuildinfo
 
 # Auto-generated version files
 **/_version.py
